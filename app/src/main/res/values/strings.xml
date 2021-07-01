@@ -7,5 +7,5 @@
     <string name="razo_vel_15">Razoável (15%)</string>
     <string name="arredondar_o_calculo">Arredondar o Cálculo?</string>
     <string name="calcular">Calcular</string>
-    <string name="gorjeta">Gorjeta</string>
+    <string name="gorjeta">Gorjeta: %s</string>
 </resources>
