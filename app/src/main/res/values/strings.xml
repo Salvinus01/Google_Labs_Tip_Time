@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Google_Labs_Tip_Time</string>
+    <string name="custo_do_servico">Custo do Serviço</string>
+    <string name="como_foi_o_servico">Como foi o Serviço?</string>
+    <string name="sensacional_20">Sensacional (20%)</string>
+    <string name="bom_18">Bom (18%)</string>
+    <string name="razo_vel_15">Razoável (15%)</string>
+    <string name="arredondar_o_calculo">Arredondar o Cálculo?</string>
+    <string name="calcular">Calcular</string>
+    <string name="gorjeta">Gorjeta</string>
 </resources>
