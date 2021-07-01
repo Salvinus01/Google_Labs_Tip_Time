@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Google_Labs_Tip_Time</string>
+    <string name="app_name">Calculadora de Gorjetas</string>
     <string name="custo_do_servico">Custo do Serviço</string>
     <string name="como_foi_o_servico">Como foi o Serviço?</string>
     <string name="sensacional_20">Sensacional (20%)</string>
