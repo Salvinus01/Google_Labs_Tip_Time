@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tipping Calculator</string>
+    <string name="custo_do_servico">Cost of Service</string>
+    <string name="como_foi_o_servico">How was  the Service?</string>
+    <string name="sensacional_20">Amazing</string>
+    <string name="bom_18">Good</string>
+    <string name="razo_vel_15">Okay</string>
+    <string name="arredondar_o_calculo">Round up tip?</string>
+    <string name="calcular">Calculate</string>
+    <string name="gorjeta">Tip: %s</string>
+</resources>
